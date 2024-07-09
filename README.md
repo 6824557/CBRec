@@ -29,9 +29,9 @@ python dataProcessFinal.py
 
 ### 2. run the model
 
-Run the model with the following command.
+Run the model with the following command.(operate on NYC by default)
 
 ~~~
-python main.py (operate on NYC by default). 
+python main.py 
 ~~~
 
